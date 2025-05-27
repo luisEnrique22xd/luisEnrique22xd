@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy [Luis Enrique Sanchez Romero]
 
 🎓 Estudiante de [Ingenieria en Desarrollo y Gestion de Software] | 💻 Desarrollador en formación  
 🌱 Actualmente aprendiendo [Flutter]  
