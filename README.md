@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy [Tu Nombre]
 
-<!--
-**luisEnrique22xd/luisEnrique22xd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de [Ingenieria en Desarrollo y Gestion de Software] | 💻 Desarrollador en formación  
+🌱 Actualmente aprendiendo [Flutter]  
+📫 Puedes contactarme en: [luisenriquesanchezro@gmail.com]
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías que uso:
+- HTML, CSS, JavaScript
+- Node.js, Express
+- React, Flutter
+- Python, Django
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Repositorios Destacados:
+- [🔗 Proyecto Integradora 1](https://github.com/luisEnrique22xd/integradora2.0)
+- [🔗 Proyecto Integradora 2](https://github.com/luisEnrique22xd/integradora2.1)
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=luisEnrique22xd&show_icons=true&theme=radical)
+
+---
+
+¡Gracias por visitar mi perfil! 🌟
