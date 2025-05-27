@@ -1,8 +1,8 @@
-# 👋 ¡Hola! Soy [Luis Enrique Sanchez Romero]
+# 👋 ¡Hola! Soy Luis Enrique Sanchez Romero
 
-🎓 Estudiante de [Ingenieria en Desarrollo y Gestion de Software] | 💻 Desarrollador en formación  
-🌱 Actualmente aprendiendo [Flutter]  
-📫 Puedes contactarme en: [luisenriquesanchezro@gmail.com]
+🎓 Estudiante de Ingenieria en Desarrollo y Gestion de Software | 💻 Desarrollador en formación  
+🌱 Actualmente aprendiendo Flutter
+📫 Puedes contactarme en: luisenriquesanchezro@gmail.com
 
 ## 🚀 Tecnologías que uso:
 - HTML, CSS, JavaScript
